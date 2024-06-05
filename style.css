@@ -1,0 +1,13 @@
+:root {
+    --primary: #faaf90;
+    --primaryAccent: #fcc9b5;
+    --secondary: #8babf1;
+    --secondaryAccent: #b3c7f7;
+    --accent: #d9e4ff;
+    --dark: black;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+}
